@@ -1,0 +1,14 @@
+Companies={
+    "AAPL":"Technology",
+    "WMT":"Retail",
+    "XOM":"Energy",
+    "JNJ":"Healthcare",
+    "DAL":"Airlines",
+    "CAT":"Industrial",
+    "V":"Finance",
+    "JPM":"Banking",
+    "ADM":"Agriculture",
+    "DE":"Agriculture",
+    "EXPD":"Export/Import",
+    "FDX":"Shipping"
+}
